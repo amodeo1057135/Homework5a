@@ -1,0 +1,17 @@
+C:\Users\valerio\Source\Repos\Homework5a\Homework5a\obj\Debug\net6.0-windows\Homework5a.csproj.AssemblyReference.cache
+C:\Users\valerio\Source\Repos\Homework5a\Homework5a\obj\Debug\net6.0-windows\Homework5a.Form1.resources
+C:\Users\valerio\Source\Repos\Homework5a\Homework5a\obj\Debug\net6.0-windows\Homework5a.csproj.GenerateResource.cache
+C:\Users\valerio\Source\Repos\Homework5a\Homework5a\obj\Debug\net6.0-windows\Homework5a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valerio\Source\Repos\Homework5a\Homework5a\obj\Debug\net6.0-windows\Homework5a.AssemblyInfoInputs.cache
+C:\Users\valerio\Source\Repos\Homework5a\Homework5a\obj\Debug\net6.0-windows\Homework5a.AssemblyInfo.cs
+C:\Users\valerio\Source\Repos\Homework5a\Homework5a\obj\Debug\net6.0-windows\Homework5a.csproj.CoreCompileInputs.cache
+C:\Users\valerio\Source\Repos\Homework5a\Homework5a\bin\Debug\net6.0-windows\Homework5a.exe
+C:\Users\valerio\Source\Repos\Homework5a\Homework5a\bin\Debug\net6.0-windows\Homework5a.deps.json
+C:\Users\valerio\Source\Repos\Homework5a\Homework5a\bin\Debug\net6.0-windows\Homework5a.runtimeconfig.json
+C:\Users\valerio\Source\Repos\Homework5a\Homework5a\bin\Debug\net6.0-windows\Homework5a.dll
+C:\Users\valerio\Source\Repos\Homework5a\Homework5a\bin\Debug\net6.0-windows\Homework5a.pdb
+C:\Users\valerio\Source\Repos\Homework5a\Homework5a\obj\Debug\net6.0-windows\Homework5a.dll
+C:\Users\valerio\Source\Repos\Homework5a\Homework5a\obj\Debug\net6.0-windows\refint\Homework5a.dll
+C:\Users\valerio\Source\Repos\Homework5a\Homework5a\obj\Debug\net6.0-windows\Homework5a.pdb
+C:\Users\valerio\Source\Repos\Homework5a\Homework5a\obj\Debug\net6.0-windows\Homework5a.genruntimeconfig.cache
+C:\Users\valerio\Source\Repos\Homework5a\Homework5a\obj\Debug\net6.0-windows\ref\Homework5a.dll
